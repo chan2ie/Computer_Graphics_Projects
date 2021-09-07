@@ -30,7 +30,9 @@ Every project has its readme file in its directory. Please check readme for furt
 
 ### <b>6. Particles</b>
 <p align = "center">
-<img src="https://yt-embed.herokuapp.com/embed?v=WVgX4hFKVQo" href="https://www.youtube.com/watch?v=WVgX4hFKVQo">
+  <a href="https://www.youtube.com/watch?v=WVgX4hFKVQo">
+<img src="https://yt-embed.herokuapp.com/embed?v=WVgX4hFKVQo">
+  </a>
 </p>
 
 ### <b>7. Wave of Teapots</b>
