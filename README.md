@@ -1,5 +1,5 @@
 # Computer Graphics Projects
-This repository contains computer graphics projects using p5.js &amp; three.js from 2020 fall Intro to Creative Computing and 2021 spring Computer Graphics classes, Sogang Univ.
+This repository contains computer graphics projects using p5.js &amp; three.js from 2020 fall Intro to Creative Computing and 2021 spring Computer Graphics classes.
 Every project has its readme file in its directory. Please check readme for further informations.
 
 # Contents
